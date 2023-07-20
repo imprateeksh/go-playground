@@ -1,0 +1,15 @@
+{
+    "foo": "bar",
+    "stuff": [
+        {
+            "this": "that",
+            "another": "value",
+            "myindex": 1
+        },
+        {
+            "this": "that2",
+            "another": "value2",
+            "myindex": 2
+        }
+    ]
+}
